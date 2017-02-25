@@ -13,5 +13,10 @@ namespace ABCProject.Controllers
         {
             return View();
         }
+        public ActionResult Aboutus()
+        {
+            return View();
+        }
+
     }
 }
